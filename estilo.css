@@ -1,0 +1,44 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@100&display=swap');
+
+*{
+    margin: 50px;
+    padding: 0;
+}
+
+/* definindo a cor do papel de parede do site */
+body{
+    background-color: #dbd8cc
+}
+
+/* Definindo tamanho da fonte, cor e alinhamento do titulo */
+h1{
+    font-size: 30px;
+    color: #fff;
+    text-align: center;
+    }
+ /* Adiconando a font Arial */
+p{ 
+    font-family: 'Roboto', sans-serif;
+    text-align: center;
+    border: 5px ;
+    font-size: 18px;
+}   
+
+ /* definindo o rodape do site */
+h3{
+    font-size: 18px;
+    color: red;
+    font-family: 'Roboto', sans-serif;
+    text-align: center;
+}
+
+#tec1{   
+    text-align: center;
+    ;
+    
+
+}
+.lang{
+    text-align: right;
+    text-align: top;
+}
