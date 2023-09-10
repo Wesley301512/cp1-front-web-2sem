@@ -42,3 +42,19 @@ h3{
     text-align: right;
     text-align: top;
 }
+
+.imagem-com-texto{
+
+    font-weight: 50;
+    float: right;
+
+}
+
+ 
+
+#imagem-com-texto1{
+
+    font-weight: 50;
+    float: left;
+
+}
